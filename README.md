@@ -1,1 +1,2 @@
 # CS440_CH04_Demo_Rios_Spenser
+I decided to go with the MIT License because it looks to me like a Non Protective FOSS License type. In this type of license, I allow people to modify, copy, and use my code under the rule that they provide attribution to me. It also protects me from some liabilities, such as copyright infringement. It is also a type of environment that promotes a lot of freedom of creativity, and it seems like an easy but safe way to get code in the coding community as effiecntly as possible. 
